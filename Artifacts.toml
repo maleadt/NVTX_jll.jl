@@ -1,0 +1,8 @@
+[[NVTX]]
+arch = "x86_64"
+git-tree-sha1 = "30bf03efc662b955a8e634e9a93ab6a3b70b48aa"
+os = "windows"
+
+    [[NVTX.download]]
+    sha256 = "14fb971237ee76cb58bf4949f0578551317d258369f388959f08b63a0f53a003"
+    url = "https://github.com/maleadt/NVTX_jll.jl/releases/download/NVTX-v3.1.0+3/NVTX.v3.1.0.x86_64-w64-mingw32.tar.gz"
